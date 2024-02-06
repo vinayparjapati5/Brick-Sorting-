@@ -18,6 +18,10 @@ https://github.com/vinayparjapati5/Brick-Sorting-/assets/114856104/97d2fc0c-d24d
 # Working
 https://github.com/vinayparjapati5/Brick-Sorting-/assets/114856104/bc34e5cc-b23e-4b46-a7db-beee7f594a51
 
+# Observation
+![1690563429675](https://github.com/vinayparjapati5/Brick-Sorting-/assets/114856104/3dcd1fff-326c-45fe-a452-7665f20e2f72)
+
+
 
 
 
